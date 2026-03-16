@@ -61,10 +61,10 @@
 '==================================================<br>
 <br>
 Sub ExtractBoldText()<br>
-    Dim doc As Document, newDoc As Document<br>
-    Dim rng As Range<br>
-    Set doc = ActiveDocument<br>
-    Set newDoc = Documents.Add<br>
+&emsp;Dim doc As Document, newDoc As Document<br>
+&emsp;Dim rng As Range<br>
+&emsp;Set doc = ActiveDocument<br>
+&emsp;Set newDoc = Documents.Add<br>
    
     For Each rng In doc.StoryRanges
         Set rng = rng.Duplicate
