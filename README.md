@@ -1,6 +1,6 @@
-论文小标题自动提取工具 (Word VBA Macro)
-
 <div align="center">
+    
+论文小标题自动提取工具 (Word VBA Macro)
 
 一键提取Word文档中的加粗小标题，快速生成文档大纲
 
