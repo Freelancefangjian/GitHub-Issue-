@@ -2,11 +2,6 @@
 
 <div align="center">
 
-!https://img.shields.io/badge/Microsoft%20Word-2016+-2B579A?logo=microsoft-word&logoColor=white
-!https://img.shields.io/badge/VBA-宏工具-217346?logo=microsoft-office&logoColor=white
-!https://img.shields.io/badge/License-MIT-green.svg
-!https://img.shields.io/badge/版本-1.0.0-blue
-
 一键提取Word文档中的加粗小标题，快速生成文档大纲
 
 #-功能特性 • #-快速开始 • #💡-基础示例代码 • #💻-完整版核心代码 • #⚠️-注意事项
