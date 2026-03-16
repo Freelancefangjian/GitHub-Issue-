@@ -59,12 +59,12 @@
 ' 文件名：ExtractBoldText.bas<br>
 ' 功能：提取当前Word文档中所有加粗文本到新文档<br>
 '==================================================<br>
-
-Sub ExtractBoldText()
-    Dim doc As Document, newDoc As Document
-    Dim rng As Range
-    Set doc = ActiveDocument
-    Set newDoc = Documents.Add
+<br>
+Sub ExtractBoldText()<br>
+    Dim doc As Document, newDoc As Document<br>
+    Dim rng As Range<br>
+    Set doc = ActiveDocument<br>
+    Set newDoc = Documents.Add<br>
    
     For Each rng In doc.StoryRanges
         Set rng = rng.Duplicate
